@@ -1,0 +1,18 @@
+## Deskripsi Dataset
+
+- Penulis : asno firdaus,
+- Versi : 5,
+- Sumber : Mendeley Data,
+- Judul : Indonesia Presidential Candidate's Dataset, 2024
+- Tahun : 2023
+- Institusi : Universitas Ahmad Dahlan
+- Lisensi : Creative Commons Attribution 4.0 International licence.
+- Deskripsi :
+
+
+> Data mentah diunduh menggunakan pemrograman Python dengan Twitter API. Data berasal dari platform Twitter yang membahas isu calon presiden Indonesia 2024. Total ada 30.000 data dengan rincian masing-masing kandidat sebagai berikut:
+- Ganjar Pranowo: October 2022 - April 2023
+- Prabowo Subianto: December 2022 - April 2023
+- Anies Baswedan: January - April 2023
+
+> Data yang digunakan merupakan data sebelum penetapan calon presiden, namun topik pemilu presiden Indonesia ramai diperbincangkan di media sosial Twitter. Data yang diperoleh akan berguna untuk penelitian selanjutnya sebagai bahan perbandingan dalam menentukan hasil pemilu Presiden Indonesia jika dibandingkan dengan data pada saat penentuan calon dan kampanye serta data setelah terpilih sebagai Presiden (hasil sebenarnya)
